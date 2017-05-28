@@ -1,0 +1,73 @@
+{"songs":[
+  {
+    "album": {
+      "band": {
+        "name": "Linkin Park",
+        "origin": "USA"
+      },
+      "name": "Meteora",
+      "genre": "Nu Metal",
+      "year": "2003"
+    },
+    "id": "1",
+    "name": "Nobody Can Save Me",
+    "rate": "0"
+  },
+  {
+    "album": {
+      "band": {
+        "name": "Linkin Park",
+        "origin": "USA"
+      },
+      "name": "Meteora",
+      "genre": "Nu Metal",
+      "year": "2003"
+    },
+    "id": "2",
+    "name": "\"Good Goodbye\" (featuring Pusha T and Stormzy)",
+    "rate": "0"
+  },
+  {
+    "album": {
+      "band": {
+        "name": "Linkin Park",
+        "origin": "USA"
+      },
+      "name": "Meteora",
+      "genre": "Nu Metal",
+      "year": "2003"
+    },
+    "id": "3",
+    "name": "Talking to Myself",
+    "rate": "0"
+  },
+  {
+    "album": {
+      "band": {
+        "name": "Linkin Park",
+        "origin": "USA"
+      },
+      "name": "Meteora",
+      "genre": "Nu Metal",
+      "year": "2003"
+    },
+    "id": "4",
+    "name": "Battle Symphony",
+    "rate": "0"
+  },
+  {
+    "album": {
+      "band": {
+        "name": "Linkin Park",
+        "origin": "USA"
+      },
+      "name": "Meteora",
+      "genre": "Nu Metal",
+      "year": "2003"
+    },
+    "id": "5",
+    "name": "Invisible",
+    "rate": "0"
+  }
+]
+}

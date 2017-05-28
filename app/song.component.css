@@ -1,0 +1,15 @@
+
+    .module {
+      cursor: pointer;
+      position: relative;
+    }
+    .module .selected:hover {
+      background-color: #BBD8DC !important;
+      color: white;
+    }
+    .module  :hover {
+      color: white;
+      background-color: brown;
+      left: 1em;
+    }
+	

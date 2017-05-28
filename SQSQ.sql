@@ -1,0 +1,23 @@
+insert into songs_check values (1,"mayhem");
+select * from songs_check;
+
+INSERT INTO BANDS VALUES (1,"linkin_park","USA");
+select * from BANDS;
+
+
+INSERT INTO ALBUMS VALUES (2,"Meteora",2003,"nu metal",1);
+select * from ALBUMS;
+
+
+/*id number name rate album_id*/
+INSERT INTO SONGS VALUES (4,7,"Faint",97,2);
+select * from SONGS;
+
+/*JOIN*/
+SELECT NUMBER,SONGS.NAME,RATE,ALBUMS.NAME,YEAR,GENRES,BANDS.NAME,ORIGIN 
+		FROM SONGS,ALBUMS,BANDS WHERE SONGS.ALBUM_ID = ALBUMS.ID AND ALBUMS.BAND_ID = BANDS.ID;
+SELECT * FROM SONGS,ALBUMS,BANDS WHERE SONGS.ALBUM_ID = ALBUMS.ID AND ALBUMS.BAND_ID = BANDS.ID;
+
+
+
+

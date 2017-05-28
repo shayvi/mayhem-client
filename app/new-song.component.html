@@ -1,0 +1,10 @@
+<div>
+  <h2>Insert new song</h2>
+  <div>
+    <label>Enter band name: </label>
+    <input [(ngModel)]="bandName" />
+	 <label>{{bandName}}</label>
+	 <button *ngIf="bandName">Ok</button>
+  </div>
+
+</div>
